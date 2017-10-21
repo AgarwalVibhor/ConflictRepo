@@ -1,0 +1,3 @@
+This is a new file in the feature2 branch.
+This will test the revert operation directly in the develop branch from the command prompt.
+This is another file.
