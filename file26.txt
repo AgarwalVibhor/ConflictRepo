@@ -1,0 +1,3 @@
+This is again a sample file here on a new day.
+
+This file is test revert directly from the develop branch form the 'Show Log' without using command prompt.
